@@ -28,7 +28,7 @@ public class TestServiceImpl implements TestService {
 
     /**
      * 主库 从库查询测试
-     * tip: 在主库test和 从库 test1中都建了一张test表
+     * tip: 在主库test和 从库 test2中都建了一张test表
      */
     @Override
     public void testDynamicDataSourceSelect() {
